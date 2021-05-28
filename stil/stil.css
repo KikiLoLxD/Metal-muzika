@@ -1,0 +1,118 @@
+body
+{
+	background-image: url("gitara.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-color: black;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#vrste
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	text-align: center;
+}
+
+button
+{
+	width: 95%;
+	display: block;
+	margin: auto;
+	cursor: pointer;
+	background-color: #b6fff6;
+	color: darkcyan;
+	padding: 15px;
+	font-size: 24px;
+	font-family: Courier New;
+	height: auto;
+	font-weight: bold;
+	border: 5px outset darkslategray;
+}
+
+h1
+{
+	font-style: bold;
+	text-align: center;
+	color: #C2F7F1;
+	font-size: 48px;
+	font-family: Courier New;
+	margin-top: 50px;
+	border: 2.5px solid #C2F7F1;
+	border-radius: 10px;
+	width: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-shadow: 2px 2px darkcyan;
+}
+
+h2
+{
+	margin: 20px;
+	font-style: bold;
+	color: #C2F7F1;
+	font-size: 30px;
+	font-family: Courier New;
+	background-color: rgba(0, 139, 139, 0.9);
+	padding: 10px;
+	border-radius: 10px;
+	width: 30%;
+}
+
+p
+{
+	padding: 20px;
+	text-align: justify;
+	background-color: rgba(42, 71, 69, 0.9);
+	color: white;
+	border-radius: 10px;
+	font-family: Times New Roman;
+}
+
+ul
+{
+	font-family: verdana;
+	width: 40%;
+	background-color: #B9F5EA;
+	border-radius: 25px;
+	list-style-type: circle;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+hr
+{
+	size: 5px;
+	color: white;
+}
+
+.url
+{
+	width: 25%;
+}
+
+mark
+{
+	background-color: lightcyan;
+}
+
+.bend
+{
+	height: 150px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+figcaption
+{
+	color: white;
+	background-color: black;
+	text-align: center;
+}
